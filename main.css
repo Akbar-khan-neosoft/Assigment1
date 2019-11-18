@@ -15,14 +15,15 @@
     height: 90px;
     background-color:#A4A4A4;
   }
-  #button1{
-    background-color: grey;
+  .button1{
+    background-color: rgb(94, 91, 91);
     font-size: 15px;
     font-family:'Courier New', Courier, monospace;
     border: 2px solid white;
+    border-radius: 10px;
     color: white;
-    height:45px; 
-    width:180px; 
+    height:55px; 
+    width:200px; 
     text-align: center;
     padding-top: 10px;
     padding-bottom: 10px;
@@ -140,7 +141,216 @@
           height: 55px;
           width: 500px;
           border: 2px solid rgb(172, 231, 94);
-          text-align: center;
-vertical-align: middle;
           }
+          .div-6{
+            background-image: url('images/hbg6.png');
+            margin-top: 30px;
+        width: 100%;
+        height: 700px;
+        text-align: center;
+        }
+        .div-6-1{
+          height: 100px;
+          width: 100%;
+        }
+        #p-6-1{
+          text-align: center;
+          padding-left: 200px;
+          padding-right: 200px;
+          font-size: 20px;
+          font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        }
+        .flex-6-1{
+          width: 100%;
+          display: flex;
+          justify-content: center;
+          margin: 10px;
+                   
+        }
+        #div-6-2{
+          margin-right: 5px;
+          height: 475px;
+          width: 400px;
+          background-color: white;
+          color: rgb(104, 100, 100);
+        }
+        #div-6-2-1{
+          margin-left:30px ;
+          margin-right:30px ;
+        }
+        #div-6-2-2{
+          background-color: rgb(141, 199, 54);
+          height: 40px;
+          width: 200px;
+          color: white;
+          font-size: 12px;
+          margin-top: 20px;
+        }
+        #div-6-3{
+          margin-left: 5px;
+          height: 475px;
+          width: 400px;
+          background-color: white;
+          color: rgb(104, 100, 100);
+        }
+        #div-6-3-1{
+          margin-left:30px ;
+          margin-right:30px ;
+        }
+        #div-6-3-2{
+          background-color: rgb(141, 199, 54);
+          height: 40px;
+          width: 200px;
+          color: white;
+          font-size: 12px;
+          margin-top: 20px;
+        }
+        .div-7{
+          background-image: url('images/testimonial-bg.jpg');
+          width: 100%;
+      height: 600px;
+      text-align: center;
+      }
+      #div-7-1{
+        margin-top: 70px;
+        margin-bottom: 30px;
+        font-size: 50px;
+        text-align: center;
+        color: white;
+        font-family:  Haettenschweiler, sans-serif;
+      }
+      #flex-7-1{
+        width: 100%;
+          display: flex;
+          justify-content: center;
+          }
+          #img-7-1{
+            width: 140px;
+            height: 140px;
+            border-radius: 50%;
+            margin-left: 300px;
+            margin-right: 300px;
+            border: 8px solid rgb(185, 206, 91);
+          }
+          #div-7-2{
+            padding-left: 300px;
+            padding-right: 300px;
+            text-align: center;
+            color: rgba(255, 255, 255, 0.692);
+            font-family: initial;
+            font-family: 18px;
+          }
+          .div-8{
+            background-color:white;
+            width: 100%;
+        height: 600px;
+        text-align: center;
+        }
+        #div-8-1{
+          margin-top: 50px;
+          margin-bottom: 50px;
+          color: rgb(43, 39, 39);
+          font-size: 50px;
+        }
+        .flex-8{
+          width: 100%;
+          display: flex;
+          justify-content: center;
+          }
+          .flex-8-1{
+            margin: 15px;
+            width: 300px;
+            }
+            .div-8-2{
+              text-align: left;
+            }
+            .div-8-3{
+              text-align: left;
+            }
+            .div-8-4{
+              text-align: left;
+            }
+            .button-8-1{
+              background-color: white;
+              border: 1px solid green;
+              height: 40px;
+              width: 130px;
+            }
+            .button-8-1:hover {background-color: #3e8e41}
+
+              .button-8-1:active {
+                background-color: #3e8e41;
+                
+              }
+              .div-9{
+                margin-top: 40px;
+                height: 90px;
+                background-color:rgb(133, 128, 128);
+                width: 100%;
+          display: flex;
+          justify-content: center;
+              }
+              .div-10{
+                background-color: rgb(58, 52, 52);
+                height: 550px;
+                width: 100%;
+              }
+              .div-10-1{
+                margin-right: 200px;
+                margin-left:200px ;
+                              }
+              .flex-10-1{
+                margin-top: 50px;
+                display:flex;
+                justify-content: center;
+                              
+              }
+              .button-10-1{
+                height: 50px;
+                width: 210px;
+                margin-top: 30px;
+                margin-left: 5px;
+                margin-right: 10px;
+                background-color: rgb(144, 197, 64);
+                border-radius: 10px;
+                color: white;
+                font-size: 15px;
+              }
+              .flex-10-2{
+                display:flex;
+                justify-content: center;
+                margin-top: 70px;
+                }
+                .div-10-4{
+                  width: 300px;
+                  margin: 5px;
+                }
+                .div-10-5{
+                  color: white;
+                  font-size: 17px;
+                }
+                .li-10-1{
+                  color:rgba(148, 143, 143, 0.726);
+                  margin-bottom: 8px;
+                }
+                .li-10-2{
+                  color:rgba(148, 143, 143, 0.726);
+                  margin-bottom: 15px;
+                }
+                .div-11{
+                  width: 100%;
+                  height: 60px;
+                  background-color: black;
+                  display: flex;
+                  justify-content: center;
+                  color: white;
+                  padding-top: 15px;
+                  padding-left: 20px;
+                  padding-right: 20px;
+                  }
+                  .button-11-1{
+                    background-color: transparent;
+                    border: none;
+                  }
+
         
